@@ -1,0 +1,11 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <picture>
+      <source srcset="{{ site.primary-img-dark-scheme }}" media="(prefers-color-scheme:dark)" />
+      <img src="{{ site.primary-img-light-scheme }}" alt="" />
+    </picture>
+  </div>
+</header>
