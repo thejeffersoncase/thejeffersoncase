@@ -55,15 +55,15 @@ Both versions include a deer skin lace bookmark, acknowledging the importance Je
 
 **Dimensions when Closed (empty):**
 
-Small Case:
+Small Case: 4" x 6" (inches)
 
-Large Case:
+Large Case: 5.25" x 8.25" (inches)
 
 **Dimensions when Open:**
 
-Small Case:
+Small Case: 8.5" x 6" (inches)
 
-Large Case:
+Large Case: 11" x 8.25" (inches)
 
 **Unlimited lifetime warranty on leather workmanship**. Details of coverage available at [amaiken.com/warranty](https://amaiken.com/pages/shipping-returns-and-warranty-information).
 
