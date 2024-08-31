@@ -23,7 +23,7 @@ email:
 webmaster: Aaron Aiken
 webmaster-url: https://amaiken.com/pages/about
 description: >- # this means to ignore newlines until "baseurl:"
-  Your Memories. With You.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thejeffersoncase.com" # the base hostname & protocol for your site, e.g. http://example.com  
 tinylytics: https://tinylytics.app/embed/j5TYJcYvyv8oVE12dynD.js?hits&kudos&countries&uptime
@@ -31,8 +31,8 @@ product: Jefferson Notebook Case
 tag-line: 
 shopify-url:
 etsy-url:
-primary-img-dark-scheme: /assets/img/Ocean-Front.png
-primary-img-light-scheme: /assets/img/Ocean-Front.png
+primary-img-dark-scheme: assets/img/logos/The Jefferson Notebook Case Logo.PNG
+primary-img-light-scheme: assets/img/logos/The Jefferson Notebook Case Logo.PNG
 img-alt: The Jefferson
 main-video:
 
