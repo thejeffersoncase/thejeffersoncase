@@ -1,6 +1,7 @@
 ---
 layout: page
 product: thejefferson
+title: Adding Inserts
 ---
 
 # How to add additional notebooks and/or inserts

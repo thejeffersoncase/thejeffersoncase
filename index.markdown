@@ -4,6 +4,7 @@
 
 layout: default
 product: thejefferson
+title: Home
 ---
 
 # The Jefferson Notebook Case
@@ -29,7 +30,9 @@ Sincerely,
 ![](assets/img/product-photos/final-product/IMG_4347.jpeg)
 ## Product Details and Pricing
 
-Available in two distinct styles and sizes, The Jefferson is tailored to fit your personal taste:
+Available in two distinct styles and sizes, The Jefferson is tailored to fit your personal taste, video below to demonstrate both options.
+
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/117635/e588042d-5219-493d-8bfd-7850b77c9151?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 ### The Jefferson Standard
 
@@ -42,6 +45,8 @@ A sleek and functional design that offers timeless appeal, perfect for everyday 
 **Starting at $99 for the small case, $109 for the large case. Hand-dyed veg-tan leather. Optional monogram included.**
 
 For those who seek something extraordinary, this version is hand-dyed to achieve a rich, bespoke finish that stands out. It’s a true reflection of Jefferson’s belief in the beauty of individuality. Available in several different hand-dyed colors, [click here to preview and see additional details](/premium.html). 
+
+---
 
 Both version are available in a "small" and "large" size. Small is designed to fit "pocket" notebooks, or notebooks with the dimensions of 3.5" wide by 5.5" tall (i.e. your standard [Field Notes notebooks](https://fieldnotesbrand.com/#products)). Large is designed for notebooks that are 4.75" wide by 7.5" tall (i.e. [Pitch Black](https://fieldnotesbrand.com/products/pitch-black-notebook), [5E Gaming Journals](https://fieldnotesbrand.com/products/5e-gaming-journals), and [Streetscapes](https://fieldnotesbrand.com/products/streetscapes)). 
 
@@ -106,7 +111,7 @@ This is the "max" configuration that I designed this for, a total of 5 "inserts"
 I carry the "small" size of this case with me all day, either in my hand, on my work bench, at my side as I write each morning, or in my bag (which as of late is _The Franklin_). In the photo below you can see the case set open as I write on my computer in the morning with my coffee. 
 ![](assets/img/product-photos/final-product/IMG_4358.jpeg)
 
-I have also been writing in my "day-today" notebook at the end of each day before I lay my head down to rest...capturing any final thoughts before they are lost in the dreams I hope will follow.
+I have also been writing in my "day-to-day" notebook at the end of each day before I lay my head down to rest...capturing any final thoughts before they are lost in the dreams I hope will follow.
 ![](assets/img/product-photos/final-product/IMG_4513.jpeg)
 
 The "large" notebook is the focus of the photo below, this particular photo part of the "perfecting" stage of this particular size. Making sure it is cut just right to contain one notebook as well as it can then, in the future, contain up to a total of 5 "inserts" like the small size does perfectly. 
