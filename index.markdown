@@ -31,8 +31,17 @@ Sincerely,
 
 Available in two distinct styles and sizes, The Jefferson is tailored to fit your personal taste:
 
-- **The Jefferson Standard (Small $45; Large $55):** A sleek and functional design that offers timeless appeal, perfect for everyday use. It comes with a monogramming option at no extra cost, making it uniquely yours. Available in drum-dyed tan, brown, or black. [Click here to see the colors](https://strathmereleather.b-cdn.net/Drum-Dyed%20Leather%20Colors.jpg).
-- **The Jefferson Hand-Dyed (Small $99; Large $109):** For those who seek something extraordinary, this version is hand-dyed to achieve a rich, bespoke finish that stands out. It’s a true reflection of Jefferson’s belief in the beauty of individuality. Available in several different hand-dyed colors, [click here to preview](https://strathmereleather.b-cdn.net/leather%20dye%20color%20options.jpg). 
+### The Jefferson Standard
+
+**Starting at $45 USD for the small case, $55 for the large case. Drum-dyed veg-tan leather. Optional monogram included.**
+
+A sleek and functional design that offers timeless appeal, perfect for everyday use. It comes with a monogramming option at no extra cost, making it uniquely yours. Available in drum-dyed tan, brown, or black. [Click here to see the colors](https://strathmereleather.b-cdn.net/Drum-Dyed%20Leather%20Colors.jpg).
+
+### The Jefferson Premium
+
+**Starting at $99 for the small case, $109 for the large case. Hand-dyed veg-tan leather. Optional monogram included.**
+
+For those who seek something extraordinary, this version is hand-dyed to achieve a rich, bespoke finish that stands out. It’s a true reflection of Jefferson’s belief in the beauty of individuality. Available in several different hand-dyed colors, [click here to preview and see additional details](/premium.html). 
 
 Both version are available in a "small" and "large" size. Small is designed to fit "pocket" notebooks, or notebooks with the dimensions of 3.5" wide by 5.5" tall (i.e. your standard [Field Notes notebooks](https://fieldnotesbrand.com/#products)). Large is designed for notebooks that are 4.75" wide by 7.5" tall (i.e. [Pitch Black](https://fieldnotesbrand.com/products/pitch-black-notebook), [5E Gaming Journals](https://fieldnotesbrand.com/products/5e-gaming-journals), and [Streetscapes](https://fieldnotesbrand.com/products/streetscapes)). 
 
@@ -44,12 +53,13 @@ Both versions include a deer skin lace bookmark, acknowledging the importance Je
 - The notebook case in your choice of small or large
 - A primary deerskin lace "strap" to hold everything in place
 - A deerskin lace bookmark (additional bookmarks can also be purchased as part of your order (I use a total of 3 in my daily carry))
-- A "buckle strap" with a buckle in the finish of your choice to make sure the case remains closed when you _buckle the buckle._
+- A "buckle strap" with a buckle (or button-stud) in the finish of your choice (some options [here](https://strathmereleather.b-cdn.net/A.%20M.%20Aiken%20Strathmere%20Leather%20-%20Hardware%20Options.jpg)) to make sure the case remains closed when you _buckle the buckle._
+- A few rubber bands which can be used for adding additional notebooks/inserts (instructions [here](/instructions.html) if needed).
 
 ### Materials
 - 100% vegetable tan leather
 - Deerskin lace (main notebook strap and included bookmark)
-- hardware finish of your choice (which will be finalized once your order has been placed)
+- hardware style and finish of your choice (which will be finalized once your order has been placed)
 
 ### Measurements
 
@@ -105,6 +115,10 @@ The "large" notebook is the focus of the photo below, this particular photo part
 ![](assets/img/product-photos/final-product/IMG_4524.jpeg)
 
 ![](assets/img/product-photos/final-product/IMG_4529.jpeg)
+
+![](assets/img/product-photos/final-product/button-stud/IMG_4946.jpeg)
+
+![](assets/img/product-photos/final-product/button-stud/IMG_4947.jpeg)
 
 ![](assets/img/product-photos/final-product/IMG_4581.jpeg)
 

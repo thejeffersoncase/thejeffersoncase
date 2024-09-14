@@ -3,9 +3,9 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <picture>
+    <a href="{{ site.url }}"><picture>
       <source srcset="{{ site.primary-img-dark-scheme }}" media="(prefers-color-scheme:dark)" />
       <img src="{{ site.primary-img-light-scheme }}" alt="" />
-    </picture>
+    </picture></a>
   </div>
 </header>
