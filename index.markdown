@@ -8,6 +8,7 @@ title: Home
 ---
 
 # The Jefferson Notebook Case
+> Write today, Forever.
 
 ![](assets/img/product-photos/final-product/IMG_4640.jpeg)
 

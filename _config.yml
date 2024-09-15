@@ -22,13 +22,12 @@ title: The Jefferson Notebook Case
 email:
 webmaster: Aaron Aiken
 webmaster-url: https://amaiken.com/pages/about
-description: >- # this means to ignore newlines until "baseurl:"
-  
+description: Write today, Forever.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thejeffersoncase.com" # the base hostname & protocol for your site, e.g. http://example.com  
 tinylytics: https://tinylytics.app/embed/j5TYJcYvyv8oVE12dynD.js?hits&kudos&countries&uptime
 product: Jefferson Notebook Case
-tag-line: 
+tag-line: Write today, Forever.
 shopify-url:
 etsy-url:
 primary-img-dark-scheme: assets/img/logos/The Jefferson Notebook Case Logo.PNG
